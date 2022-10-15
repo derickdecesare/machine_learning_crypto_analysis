@@ -41,3 +41,6 @@ Your graphs should look like this.
 ![Elbow Curve](Images/elbow_curve_pca.png)
 ![Cluster Plot](Images/pca_cluster_plot.png)
 
+## Conclusion
+
+The machine learning algorithm was able to seperate the outliers from the rest of the data. It would be interesting to see what clusters would be identified if we removed the outliers.
